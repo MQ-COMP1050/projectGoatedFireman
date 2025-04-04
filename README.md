@@ -14,6 +14,10 @@ Title page  GoatedFireman
     - As the player, the game demonstates a goa and a fireman, who are buddies, and together they fight fires in their city, saving lives. The game will show a many buidlings on fire and the goated fireman dissapears. 
     
 3. User Acceptance Tests
-4. Coding Guidelines
-5. Project Management
+   -As the player when you end up catching the goat as the fireman the screen turns green indicating success as per the user story.
+-As the player the fireman is moved by the cursor and the game completes when you lead the fireman to the goat which is moving around in the area until caught.
+-As the player upon completing the game hitting the r key will reset the game.
+
+5. Coding Guidelines
+6. Project Management
 blue
