@@ -13,6 +13,8 @@ Title Page: ProjectGoatedFireman Report // Team Name: BillCollectors // Authors:
     - As the player, you're a fireman chasing a runaway goat through the city. Use your mouse to catch it. Once you do, the screen celebrates your win and tells you to press ‘R’ to play again.
    
 =======
+
+
 3. Design and Architecture 
 
 
